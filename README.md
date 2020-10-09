@@ -1,2 +1,3 @@
-# hello-world
-Hello world new project template.
+使用cocos引擎完成的第一个小游戏。
+
+游戏截图
