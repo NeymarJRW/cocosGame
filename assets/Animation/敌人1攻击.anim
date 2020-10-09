@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "敌人1攻击",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 20,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "591d7775-a61f-4e44-bc26-89dc9b99cb9f"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "76b8977d-8468-4ddc-8844-16a6a23d0caa"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "76b8977d-8468-4ddc-8844-16a6a23d0caa"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "70ba76bb-9525-43ab-8277-23bc4938664d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ca236419-0011-4080-ad42-225b75e7759e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "31a398fe-fb82-479f-9c4d-134c3a656a3b"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "591d7775-a61f-4e44-bc26-89dc9b99cb9f"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "76b8977d-8468-4ddc-8844-16a6a23d0caa"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "a848c6d1-cbe5-4f1d-8796-ec0960905761"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "70ba76bb-9525-43ab-8277-23bc4938664d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ca236419-0011-4080-ad42-225b75e7759e"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "591d7775-a61f-4e44-bc26-89dc9b99cb9f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

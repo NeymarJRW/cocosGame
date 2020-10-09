@@ -1,0 +1,58 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "人物奔跑",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 20,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "20623c2e-69df-429a-9bc4-6047fe4f947b"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "dd5f46dc-6c23-448d-b7d5-68da9f948490"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "195a4c86-bea3-4c5a-95d5-c9a9b1b09f3e"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "d278aaa0-2639-4f8b-a1a2-668bc89a4075"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ad5cc4f3-8faf-45b6-85c0-5ec1b1cf287d"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "08d6ee7c-2178-4a01-9985-0f0a081bc047"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "width": []
+    }
+  },
+  "events": []
+}

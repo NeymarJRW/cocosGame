@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "技能3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 20,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "767e5396-8824-485d-b0b1-04713ca720da"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "cb83310c-4b83-438b-bd32-4a0458ea3597"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "f91703fe-23d4-4b3c-ba0a-9a1a1fb4734c"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "f5e7cbfc-884b-4fba-bfe8-4a68a2b1a8fb"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "39bc7f7a-ddab-4c0a-a4fa-11da4f1a3ea5"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "ce7ed070-c61e-4d31-b279-9a0096106f5c"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "767e5396-8824-485d-b0b1-04713ca720da"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "cb83310c-4b83-438b-bd32-4a0458ea3597"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "f91703fe-23d4-4b3c-ba0a-9a1a1fb4734c"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "f5e7cbfc-884b-4fba-bfe8-4a68a2b1a8fb"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "39bc7f7a-ddab-4c0a-a4fa-11da4f1a3ea5"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "ce7ed070-c61e-4d31-b279-9a0096106f5c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.55,
+      "func": "skillEnd",
+      "params": []
+    }
+  ]
+}

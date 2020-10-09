@@ -1,0 +1,79 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "3D Physics/Builtin"
+  ],
+  "group-list": [
+    "default",
+    "crash",
+    "wall",
+    "hero",
+    "enemy",
+    "skill"
+  ],
+  "start-scene": "485da4c2-8e4c-4fa0-85e0-c38db0ac81e6",
+  "design-resolution-width": 2688,
+  "design-resolution-height": 1242,
+  "fit-width": true,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "last-module-event-record-time": 1599187394073,
+  "preview-port": 7456,
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "assets-sort-type": "name",
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

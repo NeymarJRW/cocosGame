@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "敌人1走动",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 20,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "243c4da2-8def-41e3-86ee-c0b90e3ffb1a"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "2dfbb19b-df98-40d4-a58e-9ada2b6e5553"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "86e29f74-bd84-462d-893d-79e468b93159"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "625ab2c1-baa6-492f-821b-9549753460e7"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "8abad8f8-fb52-4299-b3a6-27784ab70902"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f3c641d4-4171-428d-b898-cc45fe59135d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "敌人1等待",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 20,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3db08bdf-4bb0-465b-bcf6-6e976d6f10ad"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "b303a5df-8035-4930-a4a4-7b12ae3b0a2b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "981313ae-ae59-42db-9965-227521c3e787"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "b359d965-12ac-4d1a-860a-b8afc46c8fb0"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "be2dd458-0856-4405-a77a-e46d09bb97b5"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "c694bbd9-6fde-4aeb-87f2-e13c970af70f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

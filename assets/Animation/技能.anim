@@ -1,0 +1,121 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "技能",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 20,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5a6a2b4c-b468-4df3-838b-e4e39d1fd0c7"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "167221c5-f5ac-46fb-a028-d18c8af5be1f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "52c9ca1c-56a0-4c13-a03c-5028087b4e23"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "9f5c1b26-b1e6-4762-8e57-e78611d8e439"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "27b56200-e873-4bc2-be2e-83c4b585e85d"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "66d8e8ce-2623-431a-8d06-da38d64ed08c"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "a9f60cd1-19b2-402d-80f6-b58fc7f7908e"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "efab53c9-c9e2-40a4-9d47-2dec02525ebf"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "5a6a2b4c-b468-4df3-838b-e4e39d1fd0c7"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "167221c5-f5ac-46fb-a028-d18c8af5be1f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "52c9ca1c-56a0-4c13-a03c-5028087b4e23"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "9f5c1b26-b1e6-4762-8e57-e78611d8e439"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "27b56200-e873-4bc2-be2e-83c4b585e85d"
+            }
+          },
+          {
+            "frame": 0.65,
+            "value": {
+              "__uuid__": "66d8e8ce-2623-431a-8d06-da38d64ed08c"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "a9f60cd1-19b2-402d-80f6-b58fc7f7908e"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "efab53c9-c9e2-40a4-9d47-2dec02525ebf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.75,
+      "func": "skillEnd",
+      "params": []
+    }
+  ]
+}

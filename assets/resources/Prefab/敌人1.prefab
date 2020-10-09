@@ -1,0 +1,450 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "敌人1",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 8
+      },
+      {
+        "__id__": 9
+      },
+      {
+        "__id__": 10
+      }
+    ],
+    "_prefab": {
+      "__id__": 11
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 210,
+      "height": 207
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -255.16,
+        -170.107,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2.195,
+        2.003,
+        2.003
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 4,
+    "groupIndex": 4,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "血条",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 115,
+      "height": 26
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        13.577,
+        93.523,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.698,
+        0.274,
+        0.698
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 4,
+    "groupIndex": 4,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "血条 <Sprite>",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "d66ce44d-b82a-44a6-8afd-35567234ce5f"
+    },
+    "_type": 3,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0.9,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "75d13802-6b89-4925-af6e-e36564eeaf59"
+    },
+    "fileId": "f7UxiImxxMQ5z+dYWUoNkx",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "敌人1<Sprite>",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "981313ae-ae59-42db-9965-227521c3e787"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Animation",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_defaultClip": {
+      "__uuid__": "421f1595-9f48-4a77-8d79-c810b59a0e2c"
+    },
+    "_clips": [
+      {
+        "__uuid__": "0270218e-f1ce-42c3-ad66-a3a42f600b77"
+      },
+      {
+        "__uuid__": "421f1595-9f48-4a77-8d79-c810b59a0e2c"
+      },
+      {
+        "__uuid__": "42da0fd5-3f6f-4faf-98fa-d8519104f937"
+      }
+    ],
+    "playOnLoad": true,
+    "_id": ""
+  },
+  {
+    "__type__": "13860nANTFGO6E/O4+UFz/Z",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "moveSpeed": 100,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.RigidBody",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_type": 2,
+    "_allowSleep": false,
+    "_gravityScale": 1,
+    "_linearDamping": 0,
+    "_angularDamping": 0,
+    "_linearVelocity": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_angularVelocity": 0,
+    "_fixedRotation": true,
+    "enabledContactListener": false,
+    "bullet": true,
+    "awakeOnLoad": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.BoxCollider",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tag": 0,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": 6,
+      "y": 3
+    },
+    "_size": {
+      "__type__": "cc.Size",
+      "width": 90,
+      "height": 201
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PhysicsPolygonCollider",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tag": 0,
+    "_density": 1,
+    "_sensor": false,
+    "_friction": 0.2,
+    "_restitution": 0,
+    "body": null,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "points": [
+      {
+        "__type__": "cc.Vec2",
+        "x": -43,
+        "y": -8
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -29,
+        "y": -28
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -6,
+        "y": -18
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -19,
+        "y": -38
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -10.7,
+        "y": -51.4
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 3,
+        "y": -51
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 11,
+        "y": -24
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 30,
+        "y": -38
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 43.2,
+        "y": -28
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 47,
+        "y": -9
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 32,
+        "y": 4
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 15,
+        "y": 0
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 23,
+        "y": 22
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 14.8,
+        "y": 37.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 1,
+        "y": 44
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -11.9,
+        "y": 36.5
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -18,
+        "y": 23
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -10,
+        "y": 0
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -28,
+        "y": 11
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -37.7,
+        "y": 5.9
+      }
+    ],
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "75d13802-6b89-4925-af6e-e36564eeaf59"
+    },
+    "fileId": "2bG47B09ZJg6ak1rY3xl1P",
+    "sync": false
+  }
+]
